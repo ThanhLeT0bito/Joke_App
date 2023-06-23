@@ -20,7 +20,6 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.purple,
           fontFamily: 'Lato',
         ),
-        // home: ProductsOverviewScreen(),
         initialRoute: '/',
         routes: {
           '/': (context) => HomeScreen(),

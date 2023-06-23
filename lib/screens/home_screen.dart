@@ -145,7 +145,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           fontSize: 17,
                           color: Colors.grey,
                           fontWeight: FontWeight.bold),
-                      textAlign: TextAlign.center,
+                      textAlign: TextAlign.start,
                     ),
                   ),
                   const SizedBox(height: 40),
